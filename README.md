@@ -1,5 +1,5 @@
 # StellarBit
-My own Crypto token bulid on ERC20
+My own Crypto token bulid on ERC20 TestNetwork
 
 # StellarBit ERC20 Token Contract
 
