@@ -2,6 +2,8 @@
 My own Crypto token bulid on ERC20
 
 #StellarBit ERC20 Token Contract
+
+
 The StellarBit ERC20 token contract is a Solidity smart contract that creates a new ERC20 token called StellarBit with the symbol "BIT". ERC20 is a standard interface for tokens on the Ethereum blockchain, which allows tokens to be transferred and interacted with by other contracts and applications.
 
 The contract inherits from the ERC20 contract provided by the OpenZeppelin library, which provides a secure and tested implementation of the ERC20 standard. The constructor function of the StellarBit contract sets the name and symbol of the token.
