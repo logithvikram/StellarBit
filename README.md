@@ -11,3 +11,4 @@ The contract inherits from the ERC20 contract provided by the OpenZeppelin libra
 To deploy this contract, you will need to compile the Solidity code using a Solidity compiler, such as the one provided by Remix, and then deploy the compiled bytecode to the Ethereum network using a tool such as Remix.
 
 After the contract has been deployed, you can interact with it using a wallet or a dApp that supports ERC20 tokens. You can transfer tokens to other Ethereum addresses, or allow other contracts to interact with your token by approving them to spend your tokens on your behalf.
+![StellerBit meta mask import](https://user-images.githubusercontent.com/106614043/232969578-c19dcf15-f296-4cb2-abb4-69334804173b.png)
